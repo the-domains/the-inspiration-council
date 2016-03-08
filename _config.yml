@@ -1,0 +1,28 @@
+name: The Inspiration Council
+favicon: null
+layout_spectrum: 0.09029301651753485
+typography_spectrum: 0.9315814811270684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7790138537529856
+  lightness: 0.05388006544671953
+  saturation: 0.7442399472929537
+  rhythmicContrast: 0.3696004771627486
+purpose: []
